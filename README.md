@@ -10,3 +10,16 @@
 ## DREAM: Data-driven Reliability-centred Evolutionary and Automated Maintenance Planner for Offshore Wind Farms
 
 Some implementations related to maintenance modeling and optimization of offshore wind farms will be provided.
+
+## Case Studies 
+
+## Publication
+
+
+## Related Works
+
+## License
+This framework is available under an MIT License.
+
+## Acknowledgments
+We would like to thank EDFEnergy R&D UK Centre and AURA Innovation Centre fortheir support.
